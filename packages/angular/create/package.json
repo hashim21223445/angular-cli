@@ -11,6 +11,6 @@
   ],
   "bin": "./src/index.js",
   "dependencies": {
-    "@angular/cli": "0.0.0-PLACEHOLDER"
+    "@angular/cli": "1.0.0"
   }
 }
